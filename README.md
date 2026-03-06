@@ -1,5 +1,3 @@
-GitHubのプロフィール用（README.md）として、過度な装飾を抑えつつ構造を整理しました。記号を整理し、エンジニアや採用担当者が読みやすいシンプルなMarkdown形式に整えています。
-
 # Ai Higuchi
 
 ## Business Development × Product Management × Human Resources
